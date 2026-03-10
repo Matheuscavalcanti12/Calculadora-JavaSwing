@@ -24,3 +24,13 @@ Operações disponíveis:
 ✖️ Multiplicação
 
 ➗ Divisão
+--
+🛠️ Tecnologias Utilizadas
+
+☕ Java
+
+🖥️ Swing
+
+🧱 JFrame
+
+🧩 JPanel
